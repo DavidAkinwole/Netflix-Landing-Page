@@ -31,7 +31,7 @@ export default function Hero() {
 </header>
 
       <div className="mx-auto mt-24 max-w-2xl px-4 text-center">
-        <h1 className="mb-3 text-4xl font-extrabold sm:text-5xl">
+        <h1 className="mb-3 text-4xl font-extrabold sm:text-5xl normal-case">
           In the mood for great entertainment?
         </h1>
         <p className="mb-6 text-sm font-semibold">Starts at ₦2,500. Cancel anytime.</p>
